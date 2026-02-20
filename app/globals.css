@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply bg-slate-50 text-slate-800;
+}
+
+.gradient-surface {
+  background: linear-gradient(135deg, #eef2ff 0%, #f8f7ff 45%, #eff6ff 100%);
+}
