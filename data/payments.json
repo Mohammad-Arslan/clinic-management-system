@@ -1,0 +1,8 @@
+[
+  {"id":"PAY-301","patientName":"Ayesha Imran","amount":9000,"date":"2026-02-18","method":"Bank Transfer","status":"Verified"},
+  {"id":"PAY-302","patientName":"Hamza Nadeem","amount":8500,"date":"2026-02-18","method":"Bank Transfer","status":"Pending"},
+  {"id":"PAY-303","patientName":"Sana Qureshi","amount":9500,"date":"2026-02-19","method":"Bank Transfer","status":"Verified"},
+  {"id":"PAY-304","patientName":"Maham Tariq","amount":8000,"date":"2026-02-19","method":"Bank Transfer","status":"Pending"},
+  {"id":"PAY-305","patientName":"Kiran Anwar","amount":9000,"date":"2026-02-20","method":"Bank Transfer","status":"Pending"},
+  {"id":"PAY-306","patientName":"Rida Faisal","amount":10000,"date":"2026-02-20","method":"Bank Transfer","status":"Verified"}
+]
